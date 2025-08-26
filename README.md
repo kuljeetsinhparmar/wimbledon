@@ -6,7 +6,7 @@ API Endpoint
 
 Base URL
 
-https://YOUR-SERVICE-NAME.onrender.com/wimbledon
+https://wimbledon.onrender.com/wimbledon
 
 Example Request
 GET /wimbledon?year=2021
